@@ -1,0 +1,162 @@
+
+.App {
+  box-sizing: border-box;
+  background-color: rgb(113, 0, 79);
+  
+}
+#homeButton {
+    background-image: url("/public/images/home.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 40%;
+    min-height: 15vh;
+}
+#connectButton {
+  background-image: url("/public/images/connect.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 40%;
+  min-height: 15vh;
+  float: right;
+}
+#goodleImg {
+  background-image: url("/public/images/peanutgoodle.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 70%;  
+  height: 60vh;
+  margin-left: 15%;
+  
+}
+#smallGoodleImg {
+  background-image: url("/public/images/peanutgoodle.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 100%;  
+  height: 60vh;
+  
+  
+}
+#officialLink {
+  background-image: url("/public/images/official.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 40%;  
+  height: 7vh;
+  margin-left: 25%;
+  
+}
+#officialLinkSmall {
+  background-image: url("/public/images/official.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 50%;  
+  height: 7vh;
+  margin-left: 25%;
+  
+}
+#textPeanuts {
+  background-image: url("/public/images/mintpeanuts.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 80%;
+  height: 30vh;
+}
+#getConnected {
+  background-image: url("/public/images/getconnected.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 80%;
+  height: 30vh;
+}
+#textWrapper {
+  margin-left: 15%;
+}
+#linkWrapper {
+  width: 50%;
+}
+#linkWrapperSmall {
+  width: 100%;
+}
+#linkButton {
+  display: flex;
+  width: 50%;
+  margin-left: 25%;
+}
+#linkButtonSmall {
+  display: flex;
+  width: 100%;
+  
+}
+#opensea{
+  background-image: url("/public/images/opensea.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 26%;
+  height: 6vh;
+}
+#openseaSmall{
+  background-image: url("/public/images/opensea.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 33%;
+  height:5vh;
+}
+#twitter{
+  background-image: url("/public/images/twitter.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 26%;
+  height: 6vh;
+}
+#twitterSmall{
+  background-image: url("/public/images/twitter.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 33%;
+  height: 5vh;
+}
+#discord {
+  background-image: url("/public/images/discord.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 26%;
+  height: 6vh;
+}
+#discordSmall {
+  background-image: url("/public/images/discord.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 33%;
+  height: 5vh;
+}
+#imageFooterWrapper {
+  background-image: url("/public/images/peanutsButton.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 50%;
+  height: 15vh;
+}
+#imageFooterWrapperSmall {
+  background-image: url("/public/images/peanutsButton.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  width: 100%;
+  height: 15vh;
+}

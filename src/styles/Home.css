@@ -1,0 +1,35 @@
+.html {
+  background-color: #5aff00;
+}
+#monsterGif {
+    background-image: url("/public/images/monstergif.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-width: 50%;  
+    height: 60vh;
+    
+}
+#homeScreen {
+  background-image: url("/public/images/background1.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#logo {
+  background-image: url("/public/images/oddLogo.PNG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-top: 2vh;
+  margin-bottom: -2vh;
+}
+#connectedButton {
+  margin-top: 3vh;
+  margin-bottom: -3vh;
+  border-radius: 10px;
+}
+
+
+
+  
